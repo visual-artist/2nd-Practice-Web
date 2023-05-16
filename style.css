@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+.half-div{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-div img{
+    width: 90%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.f-head{
+    font-size: 40px;
+    margin-top: 20%;
+}
+.mtheme{
+    color:#E75078;
+    font-size: 60px;
+    margin-top: -5%;
+    padding-top: 0;
+}
+.Button-main{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#f5becd, #c91746);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+p{
+    margin-bottom: 50px;
+    color: dimgray;
+}
+.hire-sec{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.bio-sec{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.bio-head{
+    margin-top: 30%;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.small-div{
+    width: 25%;
+    float: left;
+}
+.small-div img{
+    width: 90%;
+}
+.item-work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.work-sec{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.last-sec{
+    text-align: center;
+    margin-top: -200px;
+    
+}
+.c-name{
+    font-weight: 700;
+    color: rgb(58, 58, 58);
+    font-size: 12px;
+    margin-top: 50px;
+}
+.c-title{
+    font-size: 10px;
+}
+.last-div{
+    width: 50%;
+    margin: auto;
+
+}
+.last-button{
+    text-decoration: none;
+    background-color: #E74F74;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.cta{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}
+.mymail{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+.c-comment{
+    width: 60%;
+    margin: auto;
+    text-decoration: none;
+}
